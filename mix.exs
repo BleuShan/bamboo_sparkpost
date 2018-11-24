@@ -1,7 +1,7 @@
 defmodule Bamboo.SparkPostAdapter.Mixfile do
   use Mix.Project
 
-  @project_url "https://github.com/andrewtimberlake/bamboo_sparkpost"
+  @project_url "https://github.com/bleushan/bamboo_sparkpost"
   @version "1.1.1"
 
   def project do
@@ -38,7 +38,10 @@ defmodule Bamboo.SparkPostAdapter.Mixfile do
 
   defp package do
     [
-      maintainers: ["Andrew Timberlake"],
+      maintainers: [
+        "Andrew Timberlake",
+        "Philippe Lafontaine"
+      ],
       licenses: ["MIT"],
       links: %{"Github" => @project_url}
     ]
