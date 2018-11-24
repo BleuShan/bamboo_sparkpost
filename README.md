@@ -1,5 +1,5 @@
 # Bamboo.SparkPostAdapter
-[![Build Status](https://travis-ci.org/andrewtimberlake/bamboo_sparkpost.svg?branch=master)](https://travis-ci.org/andrewtimberlake/bamboo_sparkpost)
+[![Build Status](https://travis-ci.com/BleuShan/bamboo_sparkpost.svg?branch=master)](https://travis-ci.com/BleuShan/bamboo_sparkpost)
 
 An Adapter for the [Bamboo](https://github.com/thoughtbot/bamboo) email app.
 
